@@ -3,3 +3,7 @@ description: a normal PhD Scholar trying to leave his mark
 #show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
+github:
+  repository_url: https://github.com/Arnab-Sarker
+  #zip_url: http://example.com/download.zip
+  #another_url: another value
