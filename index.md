@@ -50,7 +50,7 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
->### Computer Skills
+>### <span style="color:blue"> Computer Skills text</span>
 
 **Programming languages** -  C++, C, Python, Fortran.  
 **Operating System** - Windows, Linux.  
@@ -73,13 +73,7 @@ My CV can be found in the link - [CV](https://drive.google.com/file/d/1bTll_sI_U
 [Link to another page](./another-page.html).
 
 
-### Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<span style="color:blue"> *This is Blue italic.* text</span>
 
-
-<span style="color:blue">some *This is Blue italic.* text</span>
-
-<span style="color:blue">some **This is Blue bold.** text</span>
+<span style="color:blue"> **This is Blue bold.** text</span>
