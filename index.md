@@ -59,4 +59,4 @@ My CV can be found in the link - [CV](https://drive.google.com/file/d/1bTll_sI_U
 
 >### [Posts](./another-page.html).
 
->### [Software Installation] (./Pages/software_installations.html)
+>### [Software Installation](./Pages/software_installations.html)
