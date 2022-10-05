@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Hobbies
+# Hobbies
 
 *   Reading Books
 *   Portrait painting
