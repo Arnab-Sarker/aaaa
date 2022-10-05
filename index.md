@@ -1,4 +1,4 @@
-I am a PhD scholar working in the field of Neutrino Phenomenlogy and Application of Machine learning in HEP experiments. You can find my CV below.
+I am a PhD scholar working in the field of Neutrino Phenomenlogy and Application of Machine learning in HEP experiments. Other than doing research, I can be found enjoying anime shows, reading books and rarely painting. In short, anything that keeps me sane. You can find my CV below.
 
 >### Education
 
@@ -47,7 +47,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 My CV can be found in the link - [CV](https://drive.google.com/file/d/1bTll_sI_UQRcEyGmn32DVg6wCAYm29pt/view?usp=sharing)
 
->### Other Accounts
+>### Online Accounts
 
 [LinkedIn Account](https://www.linkedin.com/in/arnab-sarker-a4086b224/)  
 [GitHub Account](https://github.com/Arnab-Sarker)
@@ -57,6 +57,6 @@ My CV can be found in the link - [CV](https://drive.google.com/file/d/1bTll_sI_U
 
 >### [Interesting Sites](./Pages/interesting_websites.html)
 
->### [Posts](./another-page.html).
+>### [Posts](./another-page.html)
 
 >### [Software Installation](./Pages/software_installations.html)
