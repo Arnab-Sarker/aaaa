@@ -1,4 +1,4 @@
-I am a PhD scholar working in the field of Neutrino Phenomenlogy and Application of Machine learning in HEP experiments. Other than doing research, I can be found enjoying anime shows, reading books and rarely painting. In short, anything that keeps me sane. You can find my CV below.
+I am a PhD scholar working in the field of Neutrino Phenomenology and Application of Machine learning in HEP experiments. Other than doing research, I maybe be found enjoying anime shows, reading books and rarely painting. In short, anything that keeps me sane. You can find my CV below.
 
 >### Education
 
