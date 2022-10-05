@@ -24,7 +24,10 @@ Guwahati, Assam, India
   
 >### Work Experience  
 
-Markdown
+* I have worked in application of Machine learning in Water Cherenkov detectors which are used for the detection of neutrinos.  
+* For my Master's project, I have studied the CP Violation in Charm systems.  
+* During my Bachelor's, I have developed worked with a group to develop SiPM detector for detection of cosmic muons. 
+
 
 ```markdown
 Syntax highlighted code block
@@ -56,8 +59,3 @@ My CV can be found in the link - [CV](https://drive.google.com/file/d/1bTll_sI_U
 
 >### [Posts](./another-page.html).
 
-
-
-<span style="color:blue"> *This is Blue italic.* text</span>
-
-<span style="color:blue"> **This is Blue bold.** text</span>
