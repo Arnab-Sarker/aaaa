@@ -55,7 +55,7 @@ My CV can be found in the link - [CV](https://drive.google.com/file/d/1bTll_sI_U
 
 >### [Hobbies](./hobbies.html)
 
->### [Interesting Sites](./interesting_websites.html)
+>### [Interesting Sites](./Pages/interesting_websites.html)
 
 >### [Posts](./another-page.html).
 
