@@ -68,7 +68,7 @@ My CV can be found in the link - [CV](https://drive.google.com/file/d/1bTll_sI_U
 
 >### Link to another page
 
-[Hobbies](https://github.com/Arnab-Sarker/Arnab-Sarker.github.io/blob/main/hobbies.md)
+[Hobbies](./hobbies.html)
 
 [Link to another page](./another-page.html).
 
