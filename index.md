@@ -26,7 +26,7 @@ Guwahati, Assam, India
 
 * I have worked in application of Machine learning in Water Cherenkov detectors which are used for the detection of neutrinos.  
 * For my Master's project, I have studied the CP Violation in Charm systems.  
-* During my Bachelor's, I have developed worked with a group to develop SiPM detector for detection of cosmic muons. 
+* During my Bachelor's, I have worked with a group to develop SiPM detector for detection of cosmic muons. 
 
 
 ```markdown
