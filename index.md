@@ -66,11 +66,10 @@ My CV can be found in the link - [CV](https://drive.google.com/file/d/1bTll_sI_U
 [LinkedIn Account](https://www.linkedin.com/in/arnab-sarker-a4086b224/)  
 [GitHub Account](https://github.com/Arnab-Sarker)
 
->### Link to another page
 
-[Hobbies](./hobbies.html)
+>## [Hobbies](./hobbies.html)
 
-[Link to another page](./another-page.html).
+>## [Posts](./another-page.html).
 
 
 
