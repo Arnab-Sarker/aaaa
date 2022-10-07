@@ -29,13 +29,6 @@ Guwahati, Assam, India
 * During my Bachelor's, I have worked with a group to develop SiPM detector for detection of cosmic muons. 
 
 
-```markdown
-Syntax highlighted code block
-
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 >### Computer Skills
 
 **Programming languages** -  C++, C, Python, Fortran.  
