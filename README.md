@@ -1,1 +1,1 @@
-This github repository is made for my personal website and I have used the Slate github theme. 
+This GitHub repository has been made using the Slate GitHub theme and is designed for my personal use.
