@@ -6,4 +6,4 @@ Installation Procedure for some of the most useful softwares:
 
 
 
-[Back to previous page](././)
+[Back to Home](https://arnab-sarker.github.io/arnabron/)
