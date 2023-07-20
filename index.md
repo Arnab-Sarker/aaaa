@@ -41,7 +41,7 @@ Guwahati, Assam, India
 My CV can be found in the link - [CV](https://drive.google.com/file/d/1bTll_sI_UQRcEyGmn32DVg6wCAYm29pt/view?usp=sharing)
 
 >### Online Accounts
-[InspireHep](https://inspirehep.net/authors/2063074?ui-citation-summary=true&ui-exclude-self-citations=true)
+[InspireHep](https://inspirehep.net/authors/2063074?ui-citation-summary=true&ui-exclude-self-citations=true)  
 [LinkedIn Account](https://www.linkedin.com/in/arnab-sarker-a4086b224/)  
 [GitHub Account](https://github.com/Arnab-Sarker)
 
